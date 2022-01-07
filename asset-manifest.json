@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "//cryptonube.github.io/tweet/static/js/main.6f1b5efe.chunk.js",
+    "main.js.map": "//cryptonube.github.io/tweet/static/js/main.6f1b5efe.chunk.js.map",
+    "runtime-main.js": "//cryptonube.github.io/tweet/static/js/runtime-main.b21b50df.js",
+    "runtime-main.js.map": "//cryptonube.github.io/tweet/static/js/runtime-main.b21b50df.js.map",
+    "static/js/2.58b3ec37.chunk.js": "//cryptonube.github.io/tweet/static/js/2.58b3ec37.chunk.js",
+    "static/js/2.58b3ec37.chunk.js.map": "//cryptonube.github.io/tweet/static/js/2.58b3ec37.chunk.js.map",
+    "index.html": "//cryptonube.github.io/tweet/index.html",
+    "static/js/2.58b3ec37.chunk.js.LICENSE.txt": "//cryptonube.github.io/tweet/static/js/2.58b3ec37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b21b50df.js",
+    "static/js/2.58b3ec37.chunk.js",
+    "static/js/main.6f1b5efe.chunk.js"
+  ]
+}
